@@ -2,7 +2,7 @@
 
 A production-ready serverless URL shortener built on AWS. All business logic runs at the API Gateway level — no Lambda or compute required.
 
-## 🔗 Live Demo
+## Live Demo
 https://master.d379yxg4f0t2fp.amplifyapp.com
 
 ## Architecture
@@ -29,11 +29,9 @@ User → CloudFront → API Gateway → DynamoDB
 - Globally distributed via CloudFront
 
 ## Deployment
-```bash
 sam deploy -g
-```
 
 ## Author
 Gayatri Sawant
 - GitHub: https://github.com/sawantgayatri19
-- LinkedIn: https://linkedin.com/in/gayatri-saw
+- LinkedIn: https://www.linkedin.com/in/sawantgayatri/
