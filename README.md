@@ -11,7 +11,9 @@ A production-ready **serverless URL shortener** built entirely on AWS — with z
 **[https://master.d379yxg4f0t2fp.amplifyapp.com](https://master.d379yxg4f0t2fp.amplifyapp.com)**
 
 ## 📸 Screenshot
-![App Screenshot](screenshot.png)
+![Home Page](screenshot.png)
+
+![Dashboard](dashboard.png)
 
 ## 🏗️ Architecture
 ```
